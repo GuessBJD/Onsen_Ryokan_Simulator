@@ -14,9 +14,9 @@ The VR application provides a virtual environment where the users can have a clo
 - Easter eggs: play radio music
 
 ## Documentation
-See [conceptualization documentation]
+See [conceptualization documentation](https://drive.google.com/file/d/11PJhfLm3TRvxgctp8C3HeMYUjIat4mam/view?usp=share_link)
 
-See [game design documentation]
+See [game design documentation](https://drive.google.com/file/d/1UYT6XObfy_ozfmDOIMTfsYsyOOT5eY2G/view?usp=share_link)
 
 # Presentation and Demonstration
 See [presentation and gameplay demonstration]
