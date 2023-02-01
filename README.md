@@ -19,4 +19,4 @@ See [conceptualization documentation](https://drive.google.com/file/d/11PJhfLm3T
 See [game design documentation](https://drive.google.com/file/d/1UYT6XObfy_ozfmDOIMTfsYsyOOT5eY2G/view?usp=share_link)
 
 # Presentation and Demonstration
-See [presentation and gameplay demonstration]
+See [presentation and gameplay demonstration](https://youtu.be/4MvmL41BpPM)
